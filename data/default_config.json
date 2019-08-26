@@ -1,6 +1,6 @@
 {
   "file": "./config/config.json",
-  "port": 7911,
+  "port": 520,
   "version": 4930,
   "hostinfo": {
     "lflist": 0,
@@ -18,7 +18,7 @@
     "auto_death": false
   },
   "modules": {
-    "welcome": "MyCard YGOPro Server",
+    "welcome": "欢迎加入游戏王DIY之520不灭传说群307688884，获取更新",
     "update": "请更新游戏版本",
     "stop": false,
     "side_timeout": false,
@@ -63,7 +63,7 @@
     },
     "dialogues": {
       "enabled": true,
-      "get": "http://mercury233.me/ygosrv233/dialogues.json"
+      "get": "http://mercury233.me/ygosrv233/dialogues.json+https://github.com/YGOPRO-520DIY/ygopro-sever/blob/master/%E5%AE%98%E7%BD%91%E5%A4%87%E4%BB%BD/dialogues-520.json"
     },
     "random_duel": {
       "enabled": true,
